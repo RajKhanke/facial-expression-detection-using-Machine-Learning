@@ -4,13 +4,19 @@ The System detects the facial emotion among the seven different types of emotion
 
 The seven types of expressions are :
 
-Angry\br
-sad\br
-fear\br
-neutral\br
-surprise\br
-disgust\br
-Happy\br
+Angry
+
+sad
+
+fear
+
+neutral
+
+surprise
+
+disgust
+
+Happy
 
 The model is trained and tested over fer_2013 image dataset available on kaggle, with the total epoche count of 50.
 
